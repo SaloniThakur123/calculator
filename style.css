@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+
 }
 
 .maindiv {
@@ -37,6 +38,8 @@
     font-size: 1.7rem;
     text-align: right;
     width: 90%;
+    height: 5rem;
+    /* min-height: 40%; */
 }
 
 .div3 {
